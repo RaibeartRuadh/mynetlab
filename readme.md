@@ -61,5 +61,15 @@ Office2----/
 - у всех новых серверов отключить дефолт на нат (eth0), который вагрант поднимает для связи
 - при нехватке сетевых интервейсов добавить по несколько адресов на интерфейс
 
-Построение сети
+Выполнение:
 ---------------
+
+-- Запуск стенда:
+    $ vagrant up
+
+-- Схема:
+https://github.com/RaibeartRuadh/mynetlab/blob/main/scheme.png
+
+-- Теоретическая часть:
+
+https://github.com/RaibeartRuadh/mynetlab/blob/main/network.ods
