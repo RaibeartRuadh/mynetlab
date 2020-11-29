@@ -65,10 +65,12 @@ Office2----/
 ---------------
 
 -- Запуск стенда:
+
     $ vagrant up
 
 -- Схема:
 ![Иллюстрация к проекту](https://github.com/RaibeartRuadh/mynetlab/blob/main/scheme.png)
--- Теоретическая часть:
 
-https://github.com/RaibeartRuadh/mynetlab/blob/main/network.ods
+-- Теоретическая часть:
+    
+    https://github.com/RaibeartRuadh/mynetlab/blob/main/network.ods
