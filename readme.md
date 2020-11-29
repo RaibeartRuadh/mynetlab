@@ -73,4 +73,4 @@ Office2----/
 
 -- Теоретическая часть:
     
- [Табличка](https://github.com/RaibeartRuadh/mynetlab/blob/main/network.ods) 
+ ![Табличка](https://github.com/RaibeartRuadh/mynetlab/blob/main/network.png) 
