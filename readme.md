@@ -68,8 +68,7 @@ Office2----/
     $ vagrant up
 
 -- Схема:
-https://github.com/RaibeartRuadh/mynetlab/blob/main/scheme.png
-
+![Иллюстрация к проекту](https://github.com/RaibeartRuadh/mynetlab/blob/main/scheme.png)
 -- Теоретическая часть:
 
 https://github.com/RaibeartRuadh/mynetlab/blob/main/network.ods
