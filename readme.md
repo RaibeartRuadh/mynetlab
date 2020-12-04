@@ -69,7 +69,7 @@ Office2----/
     $ vagrant up
 
 -- Схема:
-![Иллюстрация к проекту](https://github.com/RaibeartRuadh/mynetlab/blob/main/scheme.png)
+![План сети](https://github.com/RaibeartRuadh/mynetlab/blob/main/networkplan.png)
 
 -- Теоретическая часть:
     
